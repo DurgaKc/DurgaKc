@@ -23,12 +23,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Durgakc.Durgakc" />
-</div>
-
-
-
 ###
 
 <h1 align="center">hey there 👋</h1>
@@ -42,7 +36,7 @@
 
 <p align="left">🤖✨ I'm a developer from the coding universe! 🌌💻
 🐛😱 Where bugs fear me (they run away screaming!) 👻🏃‍♂️
-☕⚡ And coffee fuels me (all day, every day!) ❤️🔥<br><br>- 🔭 I’m working as Junior Frontend Developer.<br>- 📚 I'm currently learning  Express.js,Redux Toolkit,React Query,,JWT (jsonwebtoken)<br>- ⚡Outside of work, I spend time exploring cutting-edge technologies, experimenting with modern frameworks, and watching tech content to keep learning.</p>
+☕⚡ And coffee fuels me (all day, every day!) ❤️🔥<br><br>- 🔭 I’m working as Junior Frontend Developer.<br>- 📚 I'm currently learning  Express.js,Redux Toolkit,React Query,JWT (jsonwebtoken)....<br>- ⚡Outside of work, I spend time exploring cutting-edge technologies, experimenting with modern frameworks, and watching tech content to keep learning.</p>
 
 ###
 
@@ -85,3 +79,61 @@
   </div>
 
 ###
+<div align="center">
+  
+  <!-- Animated dancing character -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B8B&center=true&vCenter=true&width=500&height=80&lines=✨+Welcome+to+my+profile!+✨;🤖+I'm+a+robot+with+personality+🍕;👾+Definitely+not+a+simulation+🚀" alt="Typing animation" />
+  
+  
+  <!-- Funny visitor counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=👀+People+who+peeked+here&color=FF69B4&style=flat-square" alt="Profile views" />
+    <br>
+    <small>You're visitor number: <b>MAGIC</b> (I lost count at 42 🤷‍♂️)</small>
+  </p>
+
+  <!-- Humorous quote -->
+  <div align="center" style="background:linear-gradient(45deg, #FFD700, #FF69B4); padding:15px; border-radius:20px; margin:20px; max-width:600px;">
+    <i style="font-size:18px; color:white;">"I don't always test my code, but when I do, I do it in production!"</i>
+    <br>
+    <small>- Probably every developer at 3 AM 🌙</small>
+  </div>
+
+  <!-- Interactive looking buttons (visual only) -->
+  <div align="center">
+    <img src="https://img.shields.io/badge/💻-Code_Breaker-8A2BE2?style=for-the-badge&logo=github" alt="Code Breaker" />
+    <img src="https://img.shields.io/badge/🐛-Bug_Collector-32CD32?style=for-the-badge&logo=visual-studio-code" alt="Bug Collector" />
+    <img src="https://img.shields.io/badge/☕-Coffee_Powered-6F4E37?style=for-the-badge&logo=coffeescript" alt="Coffee Powered" />
+    <img src="https://img.shields.io/badge/🤯-404_Brain_Not_Found-FF4500?style=for-the-badge&logo=brain" alt="404 Brain Not Found" />
+  </div>
+
+  <!-- ASCII Art -->
+  <pre align="center">
+  ╔═══════════════════════════════════════╗
+  ║      WARNING:                        ║
+  ║   This developer may contain:        ║
+  ║   • 90% caffeine                     ║
+  ║   • 10% magic                        ║
+  ║   • Unlimited dad jokes              ║
+  ║   • Slightly used rubber duck        ║
+  ╚═══════════════════════════════════════╝
+  </pre>
+
+  <!-- Secret message (hover effect in markdown) -->
+  <details align="center">
+    <summary><b>🎁 Click for a secret message! (Spoiler: It's awesome)</b></summary>
+    <br>
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Awesome gif">
+    <p>🎉 You found the secret! You're officially awesome! 🎉</p>
+  </details>
+
+  <!-- Funny footer -->
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Now+go+build+something+amazing!+🚀&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+  </div>
+
+  <!-- Easter egg in comments 😉 -->
+  <!-- If you're reading this, you deserve a virtual cookie! 🍪 -->
+  <!-- P.S. The cake is a lie 🎂 -->
+
+</div>
