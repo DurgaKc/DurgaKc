@@ -31,9 +31,6 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###🔭 I’m currently working on HEMIS
-🌱 I’m currently learning Express.js,Redux Toolkit,React Query,,JWT (jsonwebtoken)
-
 <p align="left">🤖✨ I'm a developer from the coding universe! 🌌💻
 🐛😱 Where bugs fear me (they run away screaming!) 👻🏃‍♂️
 ☕⚡ And coffee fuels me (all day, every day!) ❤️🔥<br><br>- 🔭 I’m working as Junior Frontend Developer.<br>- 📚 I'm currently learning  Express.js,Redux Toolkit,React Query,JWT (jsonwebtoken)....<br>- ⚡Outside of work, I spend time exploring cutting-edge technologies, experimenting with modern frameworks, and watching tech content to keep learning.</p>
